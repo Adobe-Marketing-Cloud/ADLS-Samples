@@ -7,8 +7,8 @@
   "openTime": 1613508595376,
   "close": 822.3,
   "closeTime": 1614890702890,
-  "high": null,
-  "low": null,
+  "high": 824,
+  "low": 810,
   "latestPrice": 822.5,
   "latestSource": "Close",
   "latestTime": "July 3, 2019",
@@ -27,7 +27,7 @@
   "avgTotalVolume": 2982084,
   "marketCap": 150618374837,
   "peRatio": 57,
-  "week52High": 800.58,
-  "week52Low": 400,
+  "week52High": 830.58,
+  "week52Low": 800,
   "ytdChange": 0.39365408535881957
 }
