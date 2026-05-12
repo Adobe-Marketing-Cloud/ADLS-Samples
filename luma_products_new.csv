@@ -4,7 +4,8 @@
 ## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
-## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.color,entity.category,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+## RECS,,,,,,,,,,,,,,,,,,,
+entity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.color,entity.category,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
 MH13,Marco Lightweight Active Hoodie,Men / Tops,,https://demo-system-next.s3.amazonaws.com/assets/luma/products/mh13-blue_main_2.jpg,74,https://dsn.adobe.com/web/rllopis-RO5E/product?productId=MH13,,,blue,Men / Tops,,,,,,,,,
 MS01,Aero Daily Fitness Tee,Men / Tops,,https://demo-system-next.s3.amazonaws.com/assets/luma/products/ms01-blue_main_1.jpg,24,https://dsn.adobe.com/web/rllopis-RO5E/product?productId=MS01,,,blue,Men / Tops,,,,,,,,,
 MH07,Hero Hoodie,Men / Tops,,https://demo-system-next.s3.amazonaws.com/assets/luma/products/mh07-gray_main_2.jpg,54,https://dsn.adobe.com/web/rllopis-RO5E/product?productId=MH07,,,gray,Men / Tops,,,,,,,,,
